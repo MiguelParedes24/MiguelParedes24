@@ -1,5 +1,5 @@
-### 👋😄⚡
-<h1 align="center">Hola mi nombre es Miguel, Bienvenido a mi Perfil!</h1>
+### 
+<h1 align="center"> 👋😄⚡Hola mi nombre es Miguel, Bienvenido a mi Perfil!</h1>
 <h3 align="center">Soy un estudiante de la carrera Analista Programador Universitario en la UNPSJB y Programador Web Fullstack Jr.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelparedes24&label=Profile%20views&color=0e75b6&style=flat" alt="miguelparedes24" /> </p>
