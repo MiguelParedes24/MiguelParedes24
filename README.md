@@ -1,5 +1,5 @@
 ### 
-<h1 align="center">Hola mi nombre es Miguel, Bienvenido a mi Perfil!</h1>
+<h1 align="center">Hola! mi nombre es Miguel, Bienvenido a mi Perfil</h1>
 <h3 align="center">Soy un estudiante graduado de la carrera Analista Programador Universitario en la UNPSJB y Programador Web Fullstack Jr.</h3>
 
 
