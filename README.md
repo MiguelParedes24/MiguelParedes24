@@ -1,6 +1,6 @@
 ###
 <h1>Bienvenido a mi Perfil</h1>
-<h3 align="center">Soy un estudiante graduado de la carrera Analista Programador Universitario en la UNPSJB y Programador Web Fullstack Jr.</h3>
+<h3 align="center">Mi nombre es Miguel y soy un estudiante graduado de la carrera Analista Programador Universitario en la UNPSJB y Programador Web Fullstack.</h3>
 
 
 <h3 align="center">Lenguajes y Herramientas:</h3>
