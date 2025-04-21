@@ -13,7 +13,7 @@
 
 <!--><a href="https://portfolio-miguel-paredes.netlify.app/" target = "blank">Visitá mi portafolio</a>
 
-<a href="https://www.linkedin.com/in/miguel-paredes-bb6a99224" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Miguel Alejandro Paredes" height="30" width="40" />linkedin</a>
+<a href="https://www.linkedin.com/in/miguel-paredes-it" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Miguel Alejandro Paredes" height="30" width="40" />linkedin</a>
  
 
 <a href="mailto:paredes94miguel@gmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Miguel Alejandro Paredes" height="30" width="40" />paredes94miguel@gmail.com</a>
