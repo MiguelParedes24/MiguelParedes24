@@ -8,7 +8,7 @@
 #### ¿Hablamos?☕️
 
 <p aling="center">
-<a href="https://portfolio-miguel-paredes.netlify.app/" target = "blank">Visitá mi portafolio</a>
+<a href="https://portfolio-miguel-2025.vercel.app/" target = "blank">Visitá mi portafolio</a>
  
 <a href="https://www.linkedin.com/in/miguel-paredes-it" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Miguel Alejandro Paredes" height="30" width="40" />linkedin</a>
 
