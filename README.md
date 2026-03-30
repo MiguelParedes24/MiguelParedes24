@@ -39,6 +39,6 @@ Aquí puedes ver información sobre mis trabajos realizados y las tecnologías q
 
 ### 📊 Mis Estadísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiguelParedes24&show_icons=true&theme=tokyonight&count_private=true" alt="Miguel Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelParedes24&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=miguelparedes24&show_icons=true&theme=tokyonight&count_private=true" alt="Miguel Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelparedes24&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="170" />
 </p>
