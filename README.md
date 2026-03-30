@@ -44,9 +44,9 @@ Aquí puedes ver información sobre mis trabajos realizados y las tecnologías q
 
 ### 📊 Mis Estadísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelparedes24&layout=compact&theme=tokyonight&hide=html,css" alt="Lenguajes" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miguelparedes24&theme=tokyonight" alt="Detalles de Perfil" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=miguelparedes24&theme=tokyonight&no-frame=true" alt="Trofeos de Github" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelparedes24&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" height="180" />
 </p>
